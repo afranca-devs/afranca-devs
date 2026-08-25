@@ -29,7 +29,7 @@
 <br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="12" />
@@ -60,7 +60,7 @@
   <a href="https://www.linkedin.com/in/afranca-devs/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:23franca.dev@gmail.com">
+  <a href="mailto:afranca.devs@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
